@@ -1,6 +1,6 @@
 # My Learning Goals
 
-##This Semester
+## This Semester
 
 I am solely willing to bust myself for the **Programming** classes to quench my thirst for *tech development*. I have always dreamt of contributing to the `tech world` 
 and making a positive impact overrall.
@@ -26,11 +26,8 @@ and making a positive impact overrall.
 5. Create the commit `git commit -m`
 
 | Tool | Purpose | Link |
-| --- | --- | ---|
 | GIt | Version Control | [Link](https://github.com/Phineas-sketch/Phineas/blob/main/README.md) |
-| --- | --- |--- |
 | VS Code | Code Editor | [Link](https://code.visualstudio.com/) |
-| --- | --- | --- |
 
 - [x] Githun Profile creation
 - [x] Learn Markdown
