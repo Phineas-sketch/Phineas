@@ -28,8 +28,9 @@ and making a positive impact overrall.
 | Tool | Purpose | Link |
 | ----- | ---- | ----- |
 | GIt | Version Control | [Link](https://github.com/Phineas-sketch/Phineas/blob/main/README.md) |
-| ----- | ------ | ------ | 
+
 | VS Code | Code Editor | [Link](https://code.visualstudio.com/) |
+| ----- | ------ | ------ | 
 
 - [x] Githun Profile creation
 - [x] Learn Markdown
