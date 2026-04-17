@@ -10,7 +10,7 @@
 - Python", "HTML/CSS", "Machine Learning
 
 ## Current Projects
-- [Portfolio creation]([link](https://github.com/Phineas-sketch)) — I have created a strong portfolio in my Github account
+- [Portfolio creation](https://github.com/Phineas-sketch) — I have created a strong portfolio in my Github account
 
 ## How to Reach Me
 - Email: [kjphineas99@gmail.com]
